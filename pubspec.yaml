@@ -1,8 +1,8 @@
-name: uicore
-description: some widgets
+name: image_banner
+description: images banner
 version: 0.0.1
 author: liaobusi <liaozhongjun40@gmail.com>
-homepage: http://www.baidu.com
+homepage: https://github.com/liaobushi520/image_banner
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

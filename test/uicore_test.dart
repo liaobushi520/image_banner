@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:uicore/uicore.dart';
+import 'package:image_banner/image_banner.dart';
 
 void main() {
   test('adds one to input values', () {
